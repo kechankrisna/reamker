@@ -1,6 +1,6 @@
 # appnews
 
-A new Flutter project.
+This is a project of reamker which work with wordpress site
 
 ## Getting Started
 
