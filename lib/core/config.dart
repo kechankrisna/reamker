@@ -1,0 +1,1 @@
+const int per_page = 10;
